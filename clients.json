@@ -1,0 +1,82 @@
+[
+    {
+        "client_id": 1,
+        "first_name": "Sophia",
+        "last_name": "Williams",
+        "email": "sophia.williams@example.com",
+        "phone_number": "555-111-2222",
+        "date_of_birth": "1985-04-12"
+    },
+    {
+        "client_id": 2,
+        "first_name": "Liam",
+        "last_name": "Smith",
+        "email": "liam.smith@example.com",
+        "phone_number": "555-333-4444",
+        "date_of_birth": "1990-08-23"
+    },
+    {
+        "client_id": 3,
+        "first_name": "Emma",
+        "last_name": "Jones",
+        "email": "emma.jones@example.com",
+        "phone_number": "555-555-6666",
+        "date_of_birth": "1978-01-15"
+    },
+    {
+        "client_id": 4,
+        "first_name": "Noah",
+        "last_name": "Brown",
+        "email": "noah.brown@example.com",
+        "phone_number": "555-777-8888",
+        "date_of_birth": "1982-12-30"
+    },
+    {
+        "client_id": 5,
+        "first_name": "Olivia",
+        "last_name": "Garcia",
+        "email": "olivia.garcia@example.com",
+        "phone_number": "555-999-0000",
+        "date_of_birth": "1995-03-08"
+    },
+    {
+        "client_id": 6,
+        "first_name": "William",
+        "last_name": "Miller",
+        "email": "william.miller@example.com",
+        "phone_number": "555-222-3333",
+        "date_of_birth": "1987-06-19"
+    },
+    {
+        "client_id": 7,
+        "first_name": "Ava",
+        "last_name": "Davis",
+        "email": "ava.davis@example.com",
+        "phone_number": "555-444-5555",
+        "date_of_birth": "1992-11-10"
+    },
+    {
+        "client_id": 8,
+        "first_name": "James",
+        "last_name": "Martinez",
+        "email": "james.martinez@example.com",
+        "phone_number": "555-666-7777",
+        "date_of_birth": "1980-05-25"
+    },
+    {
+        "client_id": 9,
+        "first_name": "Isabella",
+        "last_name": "Rodriguez",
+        "email": "isabella.rodriguez@example.com",
+        "phone_number": "555-888-9999",
+        "date_of_birth": "1993-09-18"
+    },
+    {
+        "client_id": 10,
+        "first_name": "Benjamin",
+        "last_name": "Wilson",
+        "email": "benjamin.wilson@example.com",
+        "phone_number": "555-000-1111",
+        "date_of_birth": "1975-02-05"
+    }
+]
