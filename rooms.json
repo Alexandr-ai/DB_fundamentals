@@ -1,0 +1,82 @@
+[
+    {
+        "room_id": 101,
+        "room_type": "Single",
+        "price_per_night": 100.00,
+        "number_of_beds": 1,
+        "floor_id": 1,
+        "availability_status": "Available"
+    },
+    {
+        "room_id": 102,
+        "room_type": "Double",
+        "price_per_night": 150.00,
+        "number_of_beds": 2,
+        "floor_id": 1,
+        "availability_status": "Occupied"
+    },
+    {
+        "room_id": 201,
+        "room_type": "Suite",
+        "price_per_night": 300.00,
+        "number_of_beds": 2,
+        "floor_id": 2,
+        "availability_status": "Available"
+    },
+    {
+        "room_id": 202,
+        "room_type": "Single",
+        "price_per_night": 100.00,
+        "number_of_beds": 1,
+        "floor_id": 2,
+        "availability_status": "Occupied"
+    },
+    {
+        "room_id": 301,
+        "room_type": "Suite",
+        "price_per_night": 350.00,
+        "number_of_beds": 3,
+        "floor_id": 3,
+        "availability_status": "Available"
+    },
+    {
+        "room_id": 302,
+        "room_type": "Double",
+        "price_per_night": 200.00,
+        "number_of_beds": 2,
+        "floor_id": 3,
+        "availability_status": "Available"
+    },
+    {
+        "room_id": 401,
+        "room_type": "Single",
+        "price_per_night": 120.00,
+        "number_of_beds": 1,
+        "floor_id": 4,
+        "availability_status": "Occupied"
+    },
+    {
+        "room_id": 402,
+        "room_type": "Double",
+        "price_per_night": 180.00,
+        "number_of_beds": 2,
+        "floor_id": 4,
+        "availability_status": "Available"
+    },
+    {
+        "room_id": 501,
+        "room_type": "Suite",
+        "price_per_night": 400.00,
+        "number_of_beds": 3,
+        "floor_id": 5,
+        "availability_status": "Occupied"
+    },
+    {
+        "room_id": 502,
+        "room_type": "Single",
+        "price_per_night": 130.00,
+        "number_of_beds": 1,
+        "floor_id": 5,
+        "availability_status": "Available"
+    }
+]
