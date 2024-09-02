@@ -1,0 +1,82 @@
+[
+    {
+        "car_number": "BC712HB",
+        "car_manufacturer": "Toyota",
+        "car_brand": "Camry",
+        "type_of_car": "Sedan",
+        "number_of_seats": 4,
+        "car_color": "Black"
+    },
+    {
+        "car_number": "BC156CK",
+        "car_manufacturer": "Honda",
+        "car_brand": "Civic",
+        "type_of_car": "Sedan",
+        "number_of_seats": 4,
+        "car_color": "Blue"
+    },
+    {
+        "car_number": "BC391XB",
+        "car_manufacturer": "Ford",
+        "car_brand": "Escape",
+        "type_of_car": "SUV",
+        "number_of_seats": 5,
+        "car_color": "Red"
+    },
+    {
+        "car_number": "BC823AC",
+        "car_manufacturer": "Chevrolet",
+        "car_brand": "Malibu",
+        "type_of_car": "Sedan",
+        "number_of_seats": 4,
+        "car_color": "White"
+    },
+    {
+        "car_number": "BC367AB",
+        "car_manufacturer": "BMW",
+        "car_brand": "X5",
+        "type_of_car": "SUV",
+        "number_of_seats": 5,
+        "car_color": "Silver"
+    },
+    {
+        "car_number": "BC734BA",
+        "car_manufacturer": "Audi",
+        "car_brand": "A4",
+        "type_of_car": "Sedan",
+        "number_of_seats": 4,
+        "car_color": "Gray"
+    },
+    {
+        "car_number": "BC478CA",
+        "car_manufacturer": "Mercedes",
+        "car_brand": "C-Class",
+        "type_of_car": "Sedan",
+        "number_of_seats": 4,
+        "car_color": "Brown"
+    },
+    {
+        "car_number": "BC534TE",
+        "car_manufacturer": "Hyundai",
+        "car_brand": "Elantra",
+        "type_of_car": "Sedan",
+        "number_of_seats": 4,
+        "car_color": "Green"
+    },
+    {
+        "car_number": "BC378TA",
+        "car_manufacturer": "Subaru",
+        "car_brand": "Forester",
+        "type_of_car": "SUV",
+        "number_of_seats": 5,
+        "car_color": "Orange"
+    },
+    {
+        "car_number": "BC756EA",
+        "car_manufacturer": "Nissan",
+        "car_brand": "Rogue",
+        "type_of_car": "SUV",
+        "number_of_seats": 5,
+        "car_color": "Purple"
+    }
+]
