@@ -1,0 +1,102 @@
+[
+    {
+        "insurance_contract_number": 1001,
+        "insurance_amount": 500.00,
+        "premium": true,
+        "signing_date": { "$date": "2024-08-15T00:00:00Z" },
+        "expiry_date": { "$date": "2024-08-25T00:00:00Z" },
+        "insurance_daily_cost": 10.00,
+        "insurance_agent_id": "IA001",
+        "car_id": "C001"
+    },
+    {
+        "insurance_contract_number": 1002,
+        "insurance_amount": 600.00,
+        "premium": true,
+        "signing_date": { "$date": "2024-09-01T00:00:00Z" },
+        "expiry_date": { "$date": "2024-09-10T00:00:00Z" },
+        "insurance_daily_cost": 12.00,
+        "insurance_agent_id": "IA002",
+        "car_id": "C002"
+    },
+    {
+        "insurance_contract_number": 1003,
+        "insurance_amount": 700.00,
+        "premium": true,
+        "signing_date": { "$date": "2024-09-10T00:00:00Z" },
+        "expiry_date": { "$date": "2024-09-20T00:00:00Z" },
+        "insurance_daily_cost": 15.00,
+        "insurance_agent_id": "IA003",
+        "car_id": "C003"
+    },
+    {
+        "insurance_contract_number": 1004,
+        "insurance_amount": 550.00,
+        "premium": true,
+        "signing_date": { "$date": "2024-08-20T00:00:00Z" },
+        "expiry_date": { "$date": "2024-08-30T00:00:00Z" },
+        "insurance_daily_cost": 11.00,
+        "insurance_agent_id": "IA004",
+        "car_id": "C004"
+    },
+    {
+        "insurance_contract_number": 1005,
+        "insurance_amount": 650.00,
+        "premium": true,
+        "signing_date": { "$date": "2024-09-05T00:00:00Z" },
+        "expiry_date": { "$date": "2024-09-15T00:00:00Z" },
+        "insurance_daily_cost": 13.00,
+        "insurance_agent_id": "IA005",
+        "car_id": "C005"
+    },
+    {
+        "insurance_contract_number": 1006,
+        "insurance_amount": 750.00,
+        "premium": true,
+        "signing_date": { "$date": "2024-09-15T00:00:00Z" },
+        "expiry_date": { "$date": "2024-09-25T00:00:00Z" },
+        "insurance_daily_cost": 14.00,
+        "insurance_agent_id": "IA006",
+        "car_id": "C006"
+    },
+    {
+        "insurance_contract_number": 1007,
+        "insurance_amount": 800.00,
+        "premium": true,
+        "signing_date": { "$date": "2024-08-30T00:00:00Z" },
+        "expiry_date": { "$date": "2024-09-10T00:00:00Z" },
+        "insurance_daily_cost": 16.00,
+        "insurance_agent_id": "IA007",
+        "car_id": "C007"
+    },
+    {
+        "insurance_contract_number": 1008,
+        "insurance_amount": 550.00,
+        "premium": true,
+        "signing_date": { "$date": "2024-09-01T00:00:00Z" },
+        "expiry_date": { "$date": "2024-09-15T00:00:00Z" },
+        "insurance_daily_cost": 12.00,
+        "insurance_agent_id": "IA008",
+        "car_id": "C008"
+    },
+    {
+        "insurance_contract_number": 1009,
+        "insurance_amount": 900.00,
+        "premium": true,
+        "signing_date": { "$date": "2024-09-20T00:00:00Z" },
+        "expiry_date": { "$date": "2024-09-30T00:00:00Z" },
+        "insurance_daily_cost": 18.00,
+        "insurance_agent_id": "IA009",
+        "car_id": "C009"
+    },
+    {
+        "insurance_contract_number": 1010,
+        "insurance_amount": 950.00,
+        "premium": true,
+        "signing_date": { "$date": "2024-09-25T00:00:00Z" },
+        "expiry_date": { "$date": "2024-10-05T00:00:00Z" },
+        "insurance_daily_cost": 20.00,
+        "insurance_agent_id": "IA010",
+        "car_id": "C010"
+    }
+]
