@@ -1,0 +1,92 @@
+[
+    {
+        "agreement_id": "RA001",
+        "client_id": "C001",
+        "car_number": "BC712HB",
+        "start_date": { "$date": "2024-08-01T10:00:00Z" },
+        "end_date": { "$date": "2024-08-10T10:00:00Z" },
+        "rental_fee": 250.00,
+        "status": "Active"
+    },
+    {
+        "agreement_id": "RA002",
+        "client_id": "C002",
+        "car_number": "BC156CK",
+        "start_date": { "$date": "2024-08-05T10:00:00Z" },
+        "end_date": { "$date": "2024-08-15T10:00:00Z" },
+        "rental_fee": 300.00,
+        "status": "Completed"
+    },
+    {
+        "agreement_id": "RA003",
+        "client_id": "C003",
+        "car_number": "BC391XB",
+        "start_date": { "$date": "2024-08-10T10:00:00Z" },
+        "end_date": { "$date": "2024-08-20T10:00:00Z" },
+        "rental_fee": 350.00,
+        "status": "Active"
+    },
+    {
+        "agreement_id": "RA004",
+        "client_id": "C004",
+        "car_number": "BC823AC",
+        "start_date": { "$date": "2024-08-12T10:00:00Z" },
+        "end_date": { "$date": "2024-08-22T10:00:00Z" },
+        "rental_fee": 280.00,
+        "status": "Completed"
+    },
+    {
+        "agreement_id": "RA005",
+        "client_id": "C005",
+        "car_number": "BC367AB",
+        "start_date": { "$date": "2024-08-15T10:00:00Z" },
+        "end_date": { "$date": "2024-08-25T10:00:00Z" },
+        "rental_fee": 400.00,
+        "status": "Active"
+    },
+    {
+        "agreement_id": "RA006",
+        "client_id": "C006",
+        "car_number": "BC734BA",
+        "start_date": { "$date": "2024-08-18T10:00:00Z" },
+        "end_date": { "$date": "2024-08-28T10:00:00Z" },
+        "rental_fee": 330.00,
+        "status": "Pending"
+    },
+    {
+        "agreement_id": "RA007",
+        "client_id": "C007",
+        "car_number": "BC478CA",
+        "start_date": { "$date": "2024-08-20T10:00:00Z" },
+        "end_date": { "$date": "2024-08-30T10:00:00Z" },
+        "rental_fee": 290.00,
+        "status": "Completed"
+    },
+    {
+        "agreement_id": "RA008",
+        "client_id": "C008",
+        "car_number": "BC534TE",
+        "start_date": { "$date": "2024-08-22T10:00:00Z" },
+        "end_date": { "$date": "2024-09-01T10:00:00Z" },
+        "rental_fee": 320.00,
+        "status": "Active"
+    },
+    {
+        "agreement_id": "RA009",
+        "client_id": "C009",
+        "car_number": "BC378TA",
+        "start_date": { "$date": "2024-08-25T10:00:00Z" },
+        "end_date": { "$date": "2024-09-04T10:00:00Z" },
+        "rental_fee": 310.00,
+        "status": "Active"
+    },
+    {
+        "agreement_id": "RA010",
+        "client_id": "C010",
+        "car_number": "BC756EA",
+        "start_date": { "$date": "2024-08-28T10:00:00Z" },
+        "end_date": { "$date": "2024-09-07T10:00:00Z" },
+        "rental_fee": 340.00,
+        "status": "Completed"
+    }
+]
