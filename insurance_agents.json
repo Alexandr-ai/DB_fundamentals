@@ -1,0 +1,52 @@
+[
+    {
+        "agent_id": "IA001",
+        "full_name": "Bob Johnson",
+        "agent_commission": 5.00
+    },
+    {
+        "agent_id": "IA002",
+        "full_name": "Linda Clark",
+        "agent_commission": 7.50
+    },
+    {
+        "agent_id": "IA003",
+        "full_name": "Mark Wilson",
+        "agent_commission": 6.00
+    },
+    {
+        "agent_id": "IA004",
+        "full_name": "Sarah Brown",
+        "agent_commission": 8.00
+    },
+    {
+        "agent_id": "IA005",
+        "full_name": "Emily Davis",
+        "agent_commission": 9.00
+    },
+    {
+        "agent_id": "IA006",
+        "full_name": "James White",
+        "agent_commission": 4.50
+    },
+    {
+        "agent_id": "IA007",
+        "full_name": "Anna Lewis",
+        "agent_commission": 7.00
+    },
+    {
+        "agent_id": "IA008",
+        "full_name": "David Miller",
+        "agent_commission": 5.50
+    },
+    {
+        "agent_id": "IA009",
+        "full_name": "Jessica Taylor",
+        "agent_commission": 6.50
+    },
+    {
+        "agent_id": "IA010",
+        "full_name": "Michael Johnson",
+        "agent_commission": 8.50
+    }
+]
