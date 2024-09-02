@@ -1,0 +1,72 @@
+[
+    {
+        "agent_id": 1,
+        "first_name": "Alice",
+        "last_name": "Brown",
+        "email": "alice.brown@example.com",
+        "phone_number": "555-123-4567"
+    },
+    {
+        "agent_id": 2,
+        "first_name": "Bob",
+        "last_name": "Johnson",
+        "email": "bob.johnson@example.com",
+        "phone_number": "555-987-6543"
+    },
+    {
+        "agent_id": 3,
+        "first_name": "Charlie",
+        "last_name": "Davis",
+        "email": "charlie.davis@example.com",
+        "phone_number": "555-654-3210"
+    },
+    {
+        "agent_id": 4,
+        "first_name": "Diana",
+        "last_name": "Evans",
+        "email": "diana.evans@example.com",
+        "phone_number": "555-321-0987"
+    },
+    {
+        "agent_id": 5,
+        "first_name": "Ethan",
+        "last_name": "Ford",
+        "email": "ethan.ford@example.com",
+        "phone_number": "555-678-5432"
+    },
+    {
+        "agent_id": 6,
+        "first_name": "Fiona",
+        "last_name": "Garcia",
+        "email": "fiona.garcia@example.com",
+        "phone_number": "555-789-6543"
+    },
+    {
+        "agent_id": 7,
+        "first_name": "George",
+        "last_name": "Harris",
+        "email": "george.harris@example.com",
+        "phone_number": "555-456-7890"
+    },
+    {
+        "agent_id": 8,
+        "first_name": "Hannah",
+        "last_name": "Iverson",
+        "email": "hannah.iverson@example.com",
+        "phone_number": "555-234-5678"
+    },
+    {
+        "agent_id": 9,
+        "first_name": "Ian",
+        "last_name": "Jackson",
+        "email": "ian.jackson@example.com",
+        "phone_number": "555-876-5432"
+    },
+    {
+        "agent_id": 10,
+        "first_name": "Jasmine",
+        "last_name": "King",
+        "email": "jasmine.king@example.com",
+        "phone_number": "555-567-8901"
+    }
+]
